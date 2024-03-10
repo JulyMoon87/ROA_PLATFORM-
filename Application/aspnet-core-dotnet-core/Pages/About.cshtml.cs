@@ -6,10 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace aspnet_core_dotnet_core.Pages
-{
-    public class AboutModel : PageModel
-    {
-        public void OnGet()
+{public class AboutModel : PageModel
+    {public void OnGet()
         {
         }
     }
